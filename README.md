@@ -18,6 +18,8 @@ Tracks how efficiently vehicles move through the operation and how well customer
 - Hours Completed to Goal (actual hours vs. planned/goal hours)
 - Percentage of Customers Meeting Goals
 
+<img width="1029" height="579" alt="image" src="https://github.com/user-attachments/assets/bdf509fb-f2fb-44b7-a2ce-e557e89dba31" />
+
 ---
 
 ### 2. Productivity Dashboard
@@ -29,6 +31,8 @@ Measures labor efficiency, staffing accuracy, and operational execution.
 - Percentage of Daily Plans Closed
 - Percentage of Days Fully Staffed
 
+<img width="1030" height="584" alt="image" src="https://github.com/user-attachments/assets/e8f84f7c-9268-446b-9555-6d2a43bf05fd" />
+
 ---
 
 ### 3. Internal Damages Dashboard
@@ -37,6 +41,8 @@ Monitors internal quality performance and the financial impact of damage inciden
 **Key Metrics**
 - Damage Rate (damaged units ÷ total inventory)
 - Damage Severity (average cost per damaged vehicle)
+
+<img width="1159" height="655" alt="image" src="https://github.com/user-attachments/assets/812e380b-30c1-48a3-9934-97035e15cded" />
 
 ---
 
