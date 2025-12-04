@@ -1,4 +1,4 @@
-# Sales-Operations-Planning-KPI-Dashboards
+# Sales & Operations Planning KPI Dashboards
 A collection of operational dashboards used to monitor throughput, labor productivity, and internal damages across multiple automotive processing facilities.
 
 ---
