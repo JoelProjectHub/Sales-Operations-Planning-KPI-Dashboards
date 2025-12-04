@@ -70,8 +70,7 @@ All dashboards include:
 
 ---
 
-## Technical Highlights (Optional)
-If included, this section gives technical readers more depth.
+## Technical Highlights
 
 - Star-schema semantic modeling  
 - DAX measures for dynamic trends and KPI variance  
@@ -88,14 +87,6 @@ These dashboards support S&OP leaders by:
 - Tracking customer goal attainment  
 - Monitoring internal quality and damage costs  
 - Enabling data-driven decision-making across facilities  
-
----
-
-## Roadmap (Optional)
-- Add facility-level scorecards  
-- Add predictive labor modeling  
-- Add anomaly detection for damage spikes  
-- Add automated PDF exports for weekly reporting  
 
 ---
 
